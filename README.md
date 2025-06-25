@@ -14,10 +14,10 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, TailwindCSS
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Auth:** JWT
-- **Charting:** Chart.js
+- **Backend:** FastApi
+- **Database:** Supabase
+- **Auth:** supabase
+- **Charting:** rechart
 
 ## 📦 Installation
 
