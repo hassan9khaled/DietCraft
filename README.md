@@ -74,5 +74,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-- GitHub: [@hassan9khaled](https://github.com/hassan9khaled) | [@AhmeedDahy](https://github.com/AhmeedDahy) | [@ZiadTamer32](https://github.com/ZiadTamer32) | [Mohamed Ahmed] (https://github.com/Mohamed-Heggazy)
+- GitHub: [@hassan9khaled](https://github.com/hassan9khaled) | [@AhmeedDahy](https://github.com/AhmeedDahy) | [@ZiadTamer32](https://github.com/ZiadTamer32) | [@Mohamed Ahmed] (https://github.com/Mohamed-Heggazy)
 - LinkedIn: [Ahmed S. Dahy](www.linkedin.com/in/ahmed-s-dahy-b34741253) | [Ziad Tamer](https://www.linkedin.com/in/ziad-tamer-b74850284) | [Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-343a6029b)
