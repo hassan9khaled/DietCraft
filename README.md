@@ -75,4 +75,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 - GitHub: [@hassan9khaled](https://github.com/hassan9khaled) | [@AhmeedDahy](https://github.com/AhmeedDahy) | [@ZiadTamer32](https://github.com/ZiadTamer32) | [@Mohamed-Heggazy](https://github.com/Mohamed-Heggazy) | [@EslamAymann](https://github.com/EslamAymann)
-- LinkedIn: [Ahmed S. Dahy](www.linkedin.com/in/ahmed-s-dahy-b34741253) | [Ziad Tamer](https://www.linkedin.com/in/ziad-tamer-b74850284) | [Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-343a6029b) | [Eslam Ayman(http://www.linkedin.com/in/eslam-ayman-06b76825b)]
+- LinkedIn: [Ahmed S. Dahy](www.linkedin.com/in/ahmed-s-dahy-b34741253) | [Ziad Tamer](https://www.linkedin.com/in/ziad-tamer-b74850284) | [Mohamed Ahmed](https://www.linkedin.com/in/mohamed-ahmed-343a6029b) | [Eslam Ayman](http://www.linkedin.com/in/eslam-ayman-06b76825b)
